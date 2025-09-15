@@ -28,7 +28,7 @@ I like cute things, but I feel shy when my friends compliment me on being cute. 
   <img src="assets/mio2.jpg" alt="Akiyama Mio 2" width="45%" style="border-radius: 14px;"/>
 </p>
 <p align="center">
-  <img src="assets/mio3.jpg" alt="Akiyama Mio 3" width="92%" style="border-radius: 14px;"/>
+  <img src="assets/mio3.jpg" alt="Akiyama Mio 3" width="45%" style="border-radius: 14px;"/>
 </p>
 
 ---
