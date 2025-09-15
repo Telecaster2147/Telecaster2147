@@ -8,7 +8,7 @@
 ---
 
 ## 🍰 Self Introduction
-Hello, I'm **Mio Koyama**! I'm the bassist and part-time lyricist of **After School Tea Time (HTT)** in **K-ON!**. Normally, I'm a bit shy and scared of horror stories, but on the music and stage, I express my most sincere feelings through my playing. As a left-handed person, I like to practice holding a **Fender Jazz Bass**, humming the melody while incorporating daily thoughts into the lyrics.
+Hello, I'm **Akiyama Mio**! I'm the bassist and part-time lyricist of **Ho-kago Tea Time (HTT)** in **K-ON!**. Normally, I'm a bit shy and scared of horror stories, but on the music and stage, I express my most sincere feelings through my playing. As a left-handed person, I like to practice holding a **Fender Jazz Bass**, humming the melody while incorporating daily thoughts into the lyrics.
 
 I like cute things, but I feel shy when my friends compliment me on being cute. The most relaxing moments for me are when I'm brewing black tea and discussing new songs with my partners in the club activity room, or those few minutes before a performance when I'm secretly nervous yet eagerly anticipating.
 
@@ -26,10 +26,10 @@ I like cute things, but I feel shy when my friends compliment me on being cute. 
 <p align="center">
   <img src="assets/mio1.jpg" alt="Akiyama Mio 1" width="45%" style="border-radius: 14px;"/>
   <img src="assets/mio2.jpg" alt="Akiyama Mio 2" width="45%" style="border-radius: 14px;"/>
-</p>
-<p align="center">
+  <p align="center">
   <img src="assets/mio3.jpg" alt="Akiyama Mio 3" width="45%" style="border-radius: 14px;"/>
 </p>
+
 
 ---
 
