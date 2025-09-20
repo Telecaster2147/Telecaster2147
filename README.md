@@ -42,7 +42,7 @@ I like cute things, but I feel shy when my friends compliment me on being cute. 
 
 -Learn recording and basic mixing to make the demo more like a 'finished product'.
 
--You can click the button below to access the songs I love on my Bandcamp homepage. My favorite album is [Look, a rainbow!](https://karaswalkhome.bandcamp.com/album/look-a-rainbow) from Kara's walk home.
+-You can click the button below to view the songs I love on my Bandcamp homepage. My favorite album is [Look, a rainbow!](https://karaswalkhome.bandcamp.com/album/look-a-rainbow) from Kara's walk home.
 
 <p align="center">
   <a href="https://bandcamp.com/afwef12138" target="_blank">
